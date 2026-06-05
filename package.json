@@ -1,0 +1,13 @@
+{
+  "name": "creative-http-server",
+  "version": "1.0.0",
+  "description": "An HTTP/1.1 server framework built from scratch using only Node.js's net module.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "demo": "node demo-raw.js"
+  },
+  "keywords": ["http", "net", "server", "framework", "from-scratch"],
+  "author": "",
+  "license": "MIT"
+}
